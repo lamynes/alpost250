@@ -1228,7 +1228,7 @@ a {
 }
 .cid-sk5WNj1KdV {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -1318,6 +1318,7 @@ a {
 }
 .cid-sk5WNj1KdV .mbr-text {
   color: #000000;
+  text-align: left;
 }
 .cid-sk5WNj1KdV H5 {
   color: #000000;
