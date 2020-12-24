@@ -50,7 +50,7 @@
     "gdpr": false,
     "pwa-switcher": true,
     "PWA": {
-      "enabled": false,
+      "enabled": true,
       "name": "",
       "icon": "@PROJECT_PATH@/assets/images/1200px-american-legion-seal-svg.svg-512x512.png",
       "themeColor": "#6592e6"
