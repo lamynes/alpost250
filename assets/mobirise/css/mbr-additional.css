@@ -1174,27 +1174,6 @@ a {
 .cid-sk68CcjqKr .list {
   color: #fafafa;
 }
-.cid-sk6Pu7Kbma {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
-}
-.cid-sk6Pu7Kbma .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0;
-}
-.cid-sk6Pu7Kbma form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-sk6Pu7Kbma form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-sk6Pu7Kbma form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
 .cid-sk5WNj1KdV {
   padding-top: 75px;
   padding-bottom: 75px;
