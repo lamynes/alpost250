@@ -708,12 +708,11 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sk5VBqW6St {
-  z-index: 1000;
-  width: 100%;
+.cid-sk5VBqW6St .navbar-dropdown {
+  position: relative !important;
 }
-.cid-sk5VBqW6St nav.navbar {
-  position: fixed;
+.cid-sk5VBqW6St .navbar-dropdown {
+  position: absolute !important;
 }
 .cid-sk5VBqW6St .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1028,7 +1027,6 @@ a {
 }
 .cid-sk5VBqW6St .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-sk5VBqW6St a.nav-link {
   display: flex;
@@ -1126,7 +1124,7 @@ a {
   text-align: center;
 }
 .cid-sk610CvFop {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
