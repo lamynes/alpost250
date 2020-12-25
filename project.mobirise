@@ -154,7 +154,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/30713122-551301135256645-4338035793525211136-o-1536x2048.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/97421857-3203547536375295-7781828339114704896-n-720x960.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -167,7 +167,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0"
           },
           "title": "AMERICAN LEGION POST 250",
           "text": "10950 Dauphin Island Pkwy.\nTheodore, AL 36582<br>",
@@ -188,7 +188,7 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "100px",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-section-title DIV": {
               "font-size": "60px"
