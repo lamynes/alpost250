@@ -711,9 +711,6 @@ a {
 .cid-sk5VBqW6St .navbar-dropdown {
   position: relative !important;
 }
-.cid-sk5VBqW6St .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-sk5VBqW6St .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -809,7 +806,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #ffffff;
 }
 .cid-sk5VBqW6St .navbar.opened {
   transition: all 0.3s;
@@ -835,7 +833,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sk5VBqW6St .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 4.4rem);
   }
 }
 .cid-sk5VBqW6St .navbar.collapsed .dropdown-menu .dropdown-submenu {
