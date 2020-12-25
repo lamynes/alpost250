@@ -80,7 +80,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -124,6 +125,10 @@
             },
             ".btn": {
               "font-size": "16px"
+            },
+            "A": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "logo": {
@@ -186,8 +191,8 @@
               "color": "#efefef"
             },
             ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "100px",
               "color": "#ffffff"
             },
@@ -212,7 +217,7 @@
             "paddingBottom": 1,
             "bgColor": "#232323"
           },
-          "title": "Open Seven Days a Week: 10:00AM–11:00PM",
+          "title": "Open Seven Days a Week 10:00AM to 11:00PM",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
