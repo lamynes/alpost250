@@ -170,7 +170,7 @@
           },
           "title": "AMERICAN LEGION POST 250",
           "text": "10950 Dauphin Island Pkwy.\nTheodore, AL 36582<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 973-1116</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 973-1116</a>",
           "_tags": [
             "Theme"
           ],
@@ -208,7 +208,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#5199ea"
+            "bgColor": "#000000"
           },
           "title": "Open Seven Days a Week: 10:00AM–11:00PM",
           "meta": "By John Smith posted July 20, 2016",
@@ -570,8 +570,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>10950 Dauphin Island Pkwy<br>Theodore, AL 36582<br>",
-          "text2": "<strong>Contacts</strong><br>Phone <a href=\"tel:(251) 973-1116\" class=\"text-warning\">(251) 973-1116</a>\n<br>Fax (251) 973-1157<br>",
-          "text3": "<strong>Links</strong><br>\n<a href=\"index.html\" class=\"text-warning\">Home</a><br>",
+          "text2": "<strong>Contacts</strong><br>Phone <a href=\"tel:(251) 973-1116\" class=\"text-danger\">(251) 973-1116</a>\n<br>Fax (251) 973-1157<br>",
+          "text3": "<strong>Links</strong><br>\n<a href=\"index.html\" class=\"text-danger\">Home</a><br>",
           "_tags": [
             "Theme"
           ],
