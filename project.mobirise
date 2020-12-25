@@ -262,8 +262,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "66",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/download-326x155.jpg",
             "parallax": true,
@@ -337,8 +337,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text1": "<ul><li><b>Commander </b>– Bobby Welford\n</li><li><b>1st Vice </b>– Patrick Cook\n</li><li><b>2nd Vice</b> – Eric Wheat\n</li><li><b>Adjutant</b> – Butch Guimond\n</li><li><b>Finance Officer</b> – Robert Newell\n</li></ul>",
