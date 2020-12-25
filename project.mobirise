@@ -42,7 +42,8 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -285,7 +286,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "66",
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -300,7 +301,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
