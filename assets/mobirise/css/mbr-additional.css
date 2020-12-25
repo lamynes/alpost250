@@ -823,9 +823,13 @@ section.form .container {
 }
 #msg-box5-d P {
   text-align: left;
+  font-size: 20px;
 }
 #msg-box5-d H3 {
   text-align: left;
+}
+#content1-j P {
+  font-size: 20px;
 }
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {
