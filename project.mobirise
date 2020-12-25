@@ -170,7 +170,7 @@
           },
           "title": "AMERICAN LEGION POST 250",
           "text": "10950 Dauphin Island Pkwy.\nTheodore, AL 36582<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 973-1116</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 973-1116</a>",
           "_tags": [
             "Theme"
           ],
@@ -384,7 +384,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "title": "Veterans Service Officer (VSO)",
           "meta": "By John Smith posted July 20, 2016",
@@ -430,7 +430,7 @@
             "bgColor": "#efefef"
           },
           "title": "Bill Bayley Hall: RENT OUR HALL<br>",
-          "meta": "Come discover one of the most affordable event venues in Mobile, where all proceeds benefit heroes, our veterans of the United States of America. Located in Theodore, Alabama our spacious hall is perfect for weddings, receptions, banquets, birthday and retirement parties, concerts, dances and more!<br>",
+          "meta": "<br>Come discover one of the most affordable event venues in Mobile, where all proceeds benefit heroes, our veterans of the United States of America. Located in Theodore, Alabama our spacious hall is perfect for weddings, receptions, banquets, birthday and retirement parties, concerts, dances and more!<br>",
           "_tags": [
             "Theme"
           ],
@@ -451,7 +451,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "title": "Rental Includes",
           "meta": "For further information, scheduling  availability and pricing contact Carol Martin at <a href=\"tel:(252) 649-7734\" class=\"text-primary\">(252) 649-7734</a>.",
@@ -465,7 +465,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text1": "<ul><li>24 by 20 feet wood dance floor</li><li>Capacity of 200 people</li><li>Ample onsite parking</li><li>Sound system (no charge for PA, or plugging in a device to play music)</li><li>Ice machine</li></ul>",
           "text2": "<ul><li>Wet Bar available</li><li>Kitchen available for rent</li><li>Variable lighting</li><li>Onsite catering is permitted</li><li>Bill Bayley Hall is a Non-Smoking Hall. Smoking is permitted in the lounge.</li></ul>",
