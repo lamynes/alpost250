@@ -874,7 +874,11 @@ section.form .container {
   font-size: 20px;
 }
 #content1-p P {
-  font-size: 22px;
+  font-size: 30px;
+  text-align: center;
+}
+#content1-p DIV {
+  color: #ffffff;
 }
 #contacts1-6 P {
   font-size: 20px;

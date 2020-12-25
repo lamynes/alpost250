@@ -507,9 +507,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#000000"
           },
-          "text": "<p>For further information, scheduling availability and pricing contact Carol Martin at (252) 649-7734.</p>",
+          "text": "<p>For further information, scheduling availability and pricing contact Carol Martin at (252) 649-7734</p>",
           "_tags": [
             "Theme"
           ],
@@ -517,7 +517,11 @@
           "_anchor": "content1-p",
           "_styles": {
             "P": {
-              "font-size": "22px"
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           }
         },
