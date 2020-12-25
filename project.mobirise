@@ -36,7 +36,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -337,10 +337,30 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li><b>Commander </b>– Bobby Welford\n</li><li><b>1st Vice </b>– Patrick Cook\n</li><li><b>2nd Vice</b> – Eric Wheat\n</li><li><b>Adjutant</b> – Butch Guimond\n</li><li><b>Finance Officer</b> – Robert Newell\n</li></ul>",
+          "text2": "<ul><li><b>Sergeant at Arms</b> – Marell Johnson\n</li><li><b>One Year Committee Man</b> – Mack Howington\n</li><li><b>Two Year Committee Man</b> – Doug Mems\n</li><li><b>Chaplain</b> – Ed Detiege</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-h",
+          "_styles": {
+            ".lead UL": {
+              "text-align": "left",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dc07208493bc232e46aa46ecb9ec60f0-1200x750.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2796362-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
