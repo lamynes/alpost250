@@ -153,7 +153,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-2020-12-25-095347-1366x768.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-2020-12-25-095347-1-1366x768.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -168,7 +168,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "<span style=\"font-weight: normal;\">AMERICAN LEGION POST 250</span>",
+          "title": "AMERICAN LEGION POST 250",
           "text": "10950 Dauphin Island Pkwy.\nTheodore, AL 36582<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 973-1116</a>",
           "_tags": [
@@ -186,7 +186,7 @@
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "60px",
+              "font-size": "100px",
               "color": "#ffffff"
             },
             ".mbr-section-title DIV": {
