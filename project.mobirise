@@ -290,7 +290,7 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/download-326x155.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/97421857-3203547536375295-7781828339114704896-n-720x960.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -299,8 +299,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -333,10 +333,12 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "20px"
+              "font-size": "22px",
+              "color": "#ffffff"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-d"
