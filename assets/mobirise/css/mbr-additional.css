@@ -823,7 +823,8 @@ section.form .container {
   color: #ffffff;
 }
 #msg-box5-c P {
-  text-align: center;
+  text-align: left;
+  font-size: 20px;
 }
 #msg-box5-c H3 {
   text-align: center;

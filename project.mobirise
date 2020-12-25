@@ -271,7 +271,8 @@
           "_anchor": "msg-box5-c",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "left",
+              "font-size": "20px"
             },
             "H3": {
               "text-align": "center"
