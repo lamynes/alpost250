@@ -843,6 +843,9 @@ section.form .container {
 #header3-g .mbr-section-subtitle {
   text-align: center;
 }
+#header3-g .mbr-section-title {
+  color: #ffffff;
+}
 #content6-h .lead UL {
   text-align: left;
   font-size: 20px;
@@ -850,6 +853,9 @@ section.form .container {
 #header3-o .mbr-section-title,
 #header3-o .mbr-section-subtitle {
   text-align: center;
+}
+#header3-o .mbr-section-title {
+  color: #ffffff;
 }
 #content1-k P {
   font-size: 20px;
