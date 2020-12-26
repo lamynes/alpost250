@@ -538,7 +538,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#ffffff"
           },
           "text": "<p>For further information, scheduling availability and pricing contact Carol Martin at <a href=\"tel:(252) 649-7734\" class=\"text-warning\">(252) 649-7734</a></p>",
           "_tags": [
@@ -552,7 +552,7 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
@@ -578,7 +578,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/2796362-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
@@ -610,7 +610,7 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         }
