@@ -387,7 +387,7 @@
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#5199ea"
           },
           "title": "Current Post 250 Officers",
           "meta": "By John Smith posted July 20, 2016",
@@ -431,7 +431,7 @@
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#5199ea"
           },
           "title": "Veterans Service Officer (VSO)",
           "meta": "By John Smith posted July 20, 2016",
@@ -478,7 +478,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#5199ea"
           },
           "title": "Bill Bayley Hall: RENT OUR HALL<br>",
           "meta": "<br>Come discover one of the most affordable event venues in Mobile, where all proceeds benefit heroes, our veterans of the United States of America. Located in Theodore, Alabama our spacious hall is perfect for weddings, receptions, banquets, birthday and retirement parties, concerts, dances and more!<br>",
@@ -518,7 +518,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "text1": "<ul><li>24 by 20 feet wood dance floor</li><li>Capacity of 200 people</li><li>Ample onsite parking</li><li>Sound system (no charge for PA, or plugging in a device to play music)</li><li>Ice machine</li></ul>",
@@ -536,7 +536,7 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
