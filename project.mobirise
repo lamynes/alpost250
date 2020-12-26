@@ -444,7 +444,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Post 250 has two outstanding Veterans Service Officers, Rick Moritz and Dave Riley,  who provide FREE advice and assistance to any veteran (you do not have to be a member of Post 250 to receive assistance).  Our Veterans Service Officer provides VA benefits counselling (including disability benefits) and other assistance to veterans where funds and resources are available.<br></p><p><br></p><p>\n</p><p>\n</p><p>Contact Rick at (<a href=\"tel:251-591-8804\" class=\"text-primary\">251)-591-8804</a>&nbsp;or Dave Riley at <a href=\"tel:(251) 751-2537\" class=\"text-primary\">(251) 751-2537</a>  to discuss your needs or make an appointment to meet.</p>",
+          "text": "<p>Post 250 has two outstanding Veterans Service Officers, Rick Moritz and Dave Riley,  who provide FREE advice and assistance to any veteran (you do not have to be a member of Post 250 to receive assistance).  Our Veterans Service Officer provides VA benefits counselling (including disability benefits) and other assistance to veterans where funds and resources are available.<br></p><p><br></p><p>\n</p><p>\n</p><p>Contact Rick at (<a href=\"tel:251-591-8804\" class=\"text-warning\">251)-591-8804</a>&nbsp;or Dave Riley at <a href=\"tel:(251) 751-2537\" class=\"text-warning\">(251) 751-2537</a>  to discuss your needs or make an appointment to meet.</p>",
           "_tags": [
             "Theme"
           ],
@@ -537,7 +537,7 @@
             "paddingBottom": "2",
             "bgColor": "#000000"
           },
-          "text": "<p>For further information, scheduling availability and pricing contact Carol Martin at (252) 649-7734</p>",
+          "text": "<p>For further information, scheduling availability and pricing contact Carol Martin at <a href=\"tel:(252) 649-7734\" class=\"text-warning\">(252) 649-7734</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -545,7 +545,7 @@
           "_anchor": "content1-p",
           "_styles": {
             "P": {
-              "font-size": "25px",
+              "font-size": "20px",
               "text-align": "center"
             },
             "DIV": {
