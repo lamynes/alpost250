@@ -871,18 +871,13 @@ section.form .container {
 #content1-k P {
   font-size: 20px;
 }
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-m .mbr-section-subtitle {
-  color: #ffffff;
+#msg-box5-r P {
   font-size: 20px;
-  text-align: center;
-}
-#header3-m .mbr-section-title {
   color: #ffffff;
+}
+#msg-box5-r H3 {
   font-size: 30px;
+  color: #ffffff;
 }
 #header3-n .mbr-section-title,
 #header3-n .mbr-section-subtitle {
@@ -894,13 +889,14 @@ section.form .container {
 }
 #header3-n .mbr-section-title {
   font-size: 30px;
+  text-align: center;
 }
 #content6-l .lead UL {
   font-size: 20px;
 }
 #content1-p P {
   font-size: 20px;
-  text-align: center;
+  text-align: left;
 }
 #content1-p DIV {
   color: #000000;
