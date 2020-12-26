@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#000000",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#f28281",
         "successColor": "#000000",
         "infoColor": "#3d8eb9",
@@ -65,13 +65,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": "1.05",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#msg-box5-c\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#msg-box5-d\">OUR MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://www.facebook.com/LP250/events/?ref=page_internal\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\">DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 973-1116\">(251) 973-1116</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#msg-box5-c\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#msg-box5-d\">OUR MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://www.facebook.com/LP250/events/?ref=page_internal\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\">DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:(251) 973-1116\">(251) 973-1116</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -84,13 +84,13 @@
               "font-size": "20px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -102,16 +102,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -147,7 +147,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AL POST 250</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AL POST 250</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2"
         },
@@ -173,7 +173,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.1"
           },
           "title": "AMERICAN LEGION POST 250",
           "text": "10950 Dauphin Island Pkwy.\nTheodore, AL 36582<br>",
@@ -208,14 +208,15 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#232323"
+            "bgColor": "#000000"
           },
           "title": "Open Seven Days a Week 10:00AM to 11:00PM",
           "meta": "By John Smith posted July 20, 2016",
@@ -233,7 +234,7 @@
             "inverse": false,
             "imageSize": "30",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -282,7 +283,8 @@
               "font-size": "20px"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "30px"
             }
           }
         },
@@ -291,14 +293,14 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "66",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/97421857-3203547536375295-7781828339114704896-n-720x960.jpg",
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/97421857_3203547536375295_7781828339114704896_n-720x960.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -340,11 +342,12 @@
             "P": {
               "text-align": "left",
               "font-size": "22px",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000",
+              "font-size": "30px"
             }
           },
           "_anchor": "msg-box5-d"
@@ -373,14 +376,15 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#232323"
+            "bgColor": "#000000"
           },
           "title": "Current Post 250 Officers",
           "meta": "By John Smith posted July 20, 2016",
@@ -416,14 +420,15 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#232323"
+            "bgColor": "#000000"
           },
           "title": "Veterans Service Officer (VSO)",
           "meta": "By John Smith posted July 20, 2016",
@@ -457,16 +462,20 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#000000"
           },
           "title": "Bill Bayley Hall: RENT OUR HALL<br>",
           "meta": "<br>Come discover one of the most affordable event venues in Mobile, where all proceeds benefit heroes, our veterans of the United States of America. Located in Theodore, Alabama our spacious hall is perfect for weddings, receptions, banquets, birthday and retirement parties, concerts, dances and more!<br>",
@@ -483,6 +492,9 @@
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
               "font-size": "30px"
             }
           },
@@ -523,7 +535,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#232323"
+            "bgColor": "#000000"
           },
           "text": "<p>For further information, scheduling availability and pricing contact Carol Martin at (252) 649-7734</p>",
           "_tags": [
@@ -533,7 +545,7 @@
           "_anchor": "content1-p",
           "_styles": {
             "P": {
-              "font-size": "30px",
+              "font-size": "25px",
               "text-align": "center"
             },
             "DIV": {
@@ -563,7 +575,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/2796362-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
