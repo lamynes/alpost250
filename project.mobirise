@@ -219,7 +219,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#5199ea"
           },
           "title": "Open Seven Days a Week 10:00AM to 11:00PM",
           "meta": "By John Smith posted July 20, 2016",
@@ -300,10 +300,10 @@
             "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/97421857_3203547536375295_7781828339114704896_n-720x960.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/97421857-3203547536375295-7781828339114704896-n-720x960.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -311,7 +311,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
@@ -345,11 +345,11 @@
             "P": {
               "text-align": "left",
               "font-size": "22px",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "H3": {
               "text-align": "left",
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "30px"
             }
           },
