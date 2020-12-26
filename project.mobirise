@@ -235,7 +235,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "24",
+            "imageSize": "32",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -317,7 +317,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tal-family-logo-removebg-preview-839x297.png",
+              "src": "@PROJECT_PATH@/assets/images/tal-family-logo-removebg-2-839x297.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
