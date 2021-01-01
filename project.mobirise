@@ -37,7 +37,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -152,58 +152,67 @@
           "_anchor": "ext_menu-2"
         },
         {
-          "_inherit": "header1",
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center",
+              "font-size": "60px"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/alpost250-800x617.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/xwzOu2V3xoM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/xwzOu2V3xoM?rel=0&showinfo=0&autoplay=0&loop=0",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=wqn3r6RukSE",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
           },
           "title": "AMERICAN LEGION POST 250",
-          "text": "10950 Dauphin Island Pkwy.\nTheodore, AL 36582<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 973-1116</a>",
+          "text": "10950 Dauphin Island Pkwy. Theodore, AL 36582",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-3",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "30px",
-              "color": "#efefef"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "100px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title DIV": {
-              "font-size": "60px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
-          "_customCSS": "text-shadow: 1px 1px 15px black, 0 0px 20px black, 0 0 5px black;"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-s"
         },
         {
           "_styles": {
@@ -300,12 +309,12 @@
             "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/97421857_3203547536375295_7781828339114704896_n-720x960.jpeg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/97421857-3203547536375295-7781828339114704896-n-720x960.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/wqn3r6RukSE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=wqn3r6RukSE",
