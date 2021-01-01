@@ -234,7 +234,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "32",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -300,18 +300,21 @@
             "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/97421857-3203547536375295-7781828339114704896-n-720x960.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/97421857_3203547536375295_7781828339114704896_n-720x960.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/wqn3r6RukSE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=wqn3r6RukSE",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
