@@ -478,7 +478,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "animText1": "RENT OUR HALL",
             "animText2": "Weddings & Parties",
