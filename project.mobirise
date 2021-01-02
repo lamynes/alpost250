@@ -456,7 +456,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgColor": "#efefef"
           },
           "text": "<p>Post 250 has two outstanding Veterans Service Officers, Rick Moritz and Dave Riley,  who provide FREE advice and assistance to any veteran (you do not have to be a member of Post 250 to receive assistance).  Our Veterans Service Officer provides VA benefits counselling (including disability benefits) and other assistance to veterans where funds and resources are available.<br></p><p><br></p><p>\n</p><p>\n</p><p>Contact Rick at (<a href=\"tel:251-591-8804\" class=\"text-warning\">251)-591-8804</a>&nbsp;or Dave Riley at <a href=\"tel:(251) 751-2537\" class=\"text-warning\">(251) 751-2537</a>  to discuss your needs or make an appointment to meet.</p>",
@@ -484,21 +484,21 @@
             "animText2": "Weddings and Parties",
             "animText3": "Concerts and Dances",
             "typeSpeed": 50,
-            "imageSize": 50,
+            "imageSize": "42",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/download-326x155.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
           "title": "Bill Bayley Hall:",
           "title2": "Open Seven Days a Week 10:00AM to 11:00PM",
