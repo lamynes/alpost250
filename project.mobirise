@@ -37,7 +37,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -413,7 +413,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<ul><li><b>Commander </b>– Bobby Welford\n</li><li><b>1st Vice </b>– Patrick Cook\n</li><li><b>2nd Vice</b> – Eric Wheat\n</li><li><b>Adjutant</b> – Butch Guimond\n</li><li><b>Finance Officer</b> – Robert Newell\n</li></ul>",
           "text2": "<ul><li><b>Sergeant at Arms</b> – Marell Johnson\n</li><li><b>One Year Committee Man</b> – Mack Howington\n</li><li><b>Two Year Committee Man</b> – Doug Mems\n</li><li><b>Chaplain</b> – Ed Detiege</li></ul>",
@@ -457,7 +457,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p>Post 250 has two outstanding Veterans Service Officers, Rick Moritz and Dave Riley,  who provide FREE advice and assistance to any veteran (you do not have to be a member of Post 250 to receive assistance).  Our Veterans Service Officer provides VA benefits counselling (including disability benefits) and other assistance to veterans where funds and resources are available.<br></p><p><br></p><p>\n</p><p>\n</p><p>Contact Rick at (<a href=\"tel:251-591-8804\" class=\"text-warning\">251)-591-8804</a>&nbsp;or Dave Riley at <a href=\"tel:(251) 751-2537\" class=\"text-warning\">(251) 751-2537</a>  to discuss your needs or make an appointment to meet.</p>",
           "_tags": [
@@ -468,6 +468,9 @@
           "_styles": {
             "P": {
               "font-size": "20px"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           }
         },
@@ -476,62 +479,64 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
+            "animText1": "RENT OUR HALL",
+            "animText2": "Weddings & Parties",
+            "animText3": "Concerts & Dances",
+            "typeSpeed": 50,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/download-326x155.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#5199ea",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
           },
+          "title": "Bill Bayley Hall:",
+          "title2": "Open Seven Days a Week 10:00AM to 11:00PM",
+          "text": "Come discover one of the most affordable event venues in Mobile, where all proceeds benefit heroes, our veterans of the United States of America. Located in Theodore, Alabama our spacious hall is perfect for weddings, receptions, banquets, birthday and retirement parties, concerts, dances and more!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET FREE TRIAL</a>",
           "media": {
             "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/75429480-1671488066315584-2810500154665205760-o-1400x1050.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@-blocks/components/_images/img_extMsg-box3.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 250,
+              "color": "#e6e6e6",
+              "family": "et-line"
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=fcc8Hxll35M",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
             }
           },
-          "title": "Bill Bayley Hall: <i>RENT OUR HALL</i>",
-          "text": "Come discover one of the most affordable event venues in Mobile, where all proceeds benefit heroes, our veterans of the United States of America. Located in Theodore, Alabama our spacious hall is perfect for weddings, receptions, banquets, birthday and retirement parties, concerts, dances and more!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.oceanstaroec.com/hall-of-fame/industry-pioneers/hw-bailey/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Bill Bayley</a> ",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-r",
+          "_name": "extMsg-box3",
+          "_anchor": "extMsg-box3-t",
           "_styles": {
-            "P": {
-              "font-size": "20px",
-              "color": "#000000",
-              "text-align": "left"
+            "SPAN": {
+              "font-size": "46px",
+              "color": "#000000"
             },
-            "H3": {
-              "font-size": "30px",
-              "color": "#000000",
-              "text-align": "left"
+            "P": {
+              "color": "#000000"
             }
           }
         },
