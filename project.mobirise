@@ -480,11 +480,11 @@
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/download-326x155.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#232323",
+            "bgColorRadio": true,
+            "bgColor": "#5199ea",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -525,11 +525,13 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "color": "#000000"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             "H3": {
               "font-size": "30px",
-              "color": "#000000"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           }
         },

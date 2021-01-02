@@ -867,11 +867,13 @@ section.form .container {
 }
 #msg-box5-r P {
   font-size: 20px;
-  color: #000000;
+  color: #ffffff;
+  text-align: left;
 }
 #msg-box5-r H3 {
   font-size: 30px;
-  color: #000000;
+  color: #ffffff;
+  text-align: left;
 }
 #header3-n .mbr-section-title,
 #header3-n .mbr-section-subtitle {
