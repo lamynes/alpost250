@@ -475,23 +475,23 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/download-326x155.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#232323",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
@@ -516,7 +516,7 @@
           },
           "title": "Bill Bayley Hall: <i>RENT OUR HALL</i>",
           "text": "Come discover one of the most affordable event venues in Mobile, where all proceeds benefit heroes, our veterans of the United States of America. Located in Theodore, Alabama our spacious hall is perfect for weddings, receptions, banquets, birthday and retirement parties, concerts, dances and more!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.oceanstaroec.com/hall-of-fame/industry-pioneers/hw-bailey/\" data-toolbar=\"-mbrBtnMove\">Bill Bayley</a>",
           "_tags": [
             "Theme"
           ],
@@ -525,11 +525,11 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H3": {
               "font-size": "30px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
