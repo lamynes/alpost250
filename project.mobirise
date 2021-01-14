@@ -172,7 +172,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/alpost250-800x617.jpg",
