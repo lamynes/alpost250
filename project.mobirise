@@ -175,7 +175,7 @@
             "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/alpost250-800x617.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/28w0hojc-800x617.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -185,7 +185,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
