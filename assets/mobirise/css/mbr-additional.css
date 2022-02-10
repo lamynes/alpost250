@@ -1113,8 +1113,17 @@ a {
 .cid-sk5WETrcJ1 .mbr-section-title {
   text-align: center;
 }
-#custom-html-l {
+#custom-html-m {
   /* Type valid CSS here */
+}
+#custom-html-m div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-m p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-sk610CvFop {
   padding-top: 1rem;

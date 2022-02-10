@@ -55,10 +55,11 @@
       "icon": "@PROJECT_PATH@/assets/images/1200px-american-legion-seal-svg.svg-512x512.png",
       "themeColor": "#6592e6"
     },
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "dat4w1xl9l"
   },
   "pages": {
     "index.html": {
@@ -67,7 +68,7 @@
         "title": "AMERICAN LEGION  POST 250",
         "meta_descr": "AMERICAN LEGION POST 250 Fowl River, AL  - 10950 Dauphin Island Pkwy. Theodore, AL 36582 / (251) 973-1116",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<script async defer crossorigin=\"anonymous\" src=\"https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0\" nonce=\"Vdsv46Zd\"></script>",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/cropped-img-0540-2-1024x554.jpeg"
       },
@@ -614,15 +615,15 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRDLowes%2F&amp;tabs=timeline&amp;width=0&amp;height=0&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=true&amp;show_facepile=true&amp;appId\" width=\"0\" height=\"0\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>",
-          "_customCSS": "/* Type valid CSS here */\n",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"fb-page\" data-href=\"https://www.facebook.com/RDLowes/\" data-tabs=\"timeline\" data-width=\"800\" data-height=\"500\" data-small-header=\"true\" data-adapt-container-width=\"true\" data-hide-cover=\"false\" data-show-facepile=\"true\"></div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
           "_sourceTheme": "mobirise5",
-          "_anchor": "custom-html-l",
+          "_anchor": "custom-html-m",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         },
