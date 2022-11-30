@@ -55,8 +55,8 @@
       "icon": "@PROJECT_PATH@/assets/images/1200px-american-legion-seal-svg.svg-512x512.png",
       "themeColor": "#6592e6"
     },
-    "uniqCompNum": 25,
-    "versionPublish": "5.5.8",
+    "uniqCompNum": 26,
+    "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "mbrsiteDomain": "dat4w1xl9l"
@@ -611,6 +611,21 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vRmq3CiUOFaPIYDL8B3-JZHZgjylD_7-ydHMszJCX6_RS8TLwtJ5nbje3eamHQeSHjjRlPwTpQHFvO9/embed?start=true&amp;loop=true&amp;delayms=15000\" frameborder=\"0\" width=\"1440\" height=\"839\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "mobirise5",
+          "_anchor": "custom-html-p",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
