@@ -1105,6 +1105,8 @@ a {
   text-align: center;
 }
 .cid-sk5WETrcJ1 {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/download-326x155.jpg");
 }
 @media (max-width: 991px) {
@@ -1180,7 +1182,7 @@ a {
 .cid-sk5WNj1KdV {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/mbr-1800x1920.png");
 }
 @media (max-width: 767px) {
   .cid-sk5WNj1KdV .content {
